@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-stone-100">
-    <div class="mx-auto max-w-screen-xl bg-orange-50">
+  <div class="bg-stone-50">
+    <div class="mx-auto max-w-screen-xl">
       <Nuxt />
     </div>
   </div>

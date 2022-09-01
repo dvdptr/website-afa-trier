@@ -8,7 +8,9 @@
       >
         <!-- NavBar Logo -->
         <div>
-          <nuxt-link to="/"> Web Afa Trier </nuxt-link>
+          <nuxt-link to="/">
+            <img src="~/assets/PSZ-Logo.jpg" alt="" class="w-56" />
+          </nuxt-link>
         </div>
         <!-- Header Hamburger Icon -->
         <div class="block lg:hidden">
@@ -33,16 +35,17 @@
           class="w-full flex-grow text-center text-gray-800 md:text-right lg:flex lg:w-auto lg:items-center"
         >
           <div class="lg:flex-grow">
+            <!-- NAV Menu Links -->
             <nuxt-link
               class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
-              to="/videoberatung"
+              to="/kontaktformular"
               >Kontaktformular</nuxt-link
             >
 
             <nuxt-link
               class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
-              to="/kontakt"
-              >Info</nuxt-link
+              to="/about"
+              >About</nuxt-link
             >
           </div>
         </div>
