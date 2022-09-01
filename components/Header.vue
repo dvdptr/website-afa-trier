@@ -9,7 +9,7 @@
         <!-- NavBar Logo -->
         <div>
           <nuxt-link to="/">
-            <img src="~/assets/PSZ-Logo.jpg" alt="" class="w-56" />
+            <Logo class="w-48" />
           </nuxt-link>
         </div>
         <!-- Header Hamburger Icon -->

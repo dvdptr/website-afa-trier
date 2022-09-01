@@ -1,12 +1,13 @@
 <template>
   <div class="">
     <div class="px-4 py-12">
-      <p class="pb-8 text-center text-3xl font-bold">Headline der Page</p>
-      <div class="mx-auto sm:w-4/6">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quae
-        eius nobis dicta alias distinctio minus ipsam. Facere dolores est
-        quibusdam consectetur molestiae corrupti harum, aperiam debitis impedit
-        similique quam!
+      <p class="pb-8 text-center text-3xl font-bold">
+        Psychosoziales Zentrum für Geflüchtete
+      </p>
+      <div class="mx-auto text-center sm:w-4/6">
+        Das Psychosoziale Zentrum für Geflüchtete (PSZ) unterstützt, berät und
+        behandelt Flüchtlinge, die einen Asylantrag zum Schutz vor Bedrohung und
+        Verfolgung gestellt haben.
       </div>
       <div class="my-8 flex justify-center">
         <button class="mx-2 rounded-lg bg-gray-200 p-3">Kontaktformular</button>
