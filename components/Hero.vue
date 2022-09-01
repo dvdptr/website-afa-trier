@@ -10,7 +10,10 @@
         Verfolgung gestellt haben.
       </div>
       <div class="my-8 flex justify-center">
-        <button class="mx-2 rounded-lg bg-gray-200 p-3">Kontaktformular</button>
+        <nuxt-link to="kontaktformular" class="mx-2 rounded-lg bg-gray-200 p-3">
+          Kontaktformular
+        </nuxt-link>
+
         <button class="mx-2 rounded-lg border-2 border-gray-200 p-3">
           Sprache wählen
         </button>

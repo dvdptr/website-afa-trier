@@ -8,9 +8,7 @@
       >
         <!-- NavBar Logo -->
         <div>
-          <nuxt-link to="/">
-            <Logo class="w-48" />
-          </nuxt-link>
+          <nuxt-link to="/"> <Logo class="w-48" /> </nuxt-link>
         </div>
         <!-- Header Hamburger Icon -->
         <div class="block lg:hidden">
@@ -55,6 +53,8 @@
 </template>
 
 <script>
+import Logo from "./Logo.vue";
+
 export default {
   data() {
     return {
@@ -66,6 +66,7 @@ export default {
       this.isOpen = !this.isOpen;
     },
   },
+  components: { Logo },
 };
 </script>
 
