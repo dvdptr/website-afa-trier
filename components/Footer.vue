@@ -1,13 +1,19 @@
 <template>
   <div class="border-t">
-    <div>
-      <section>
-        <p></p>
-        Psychosoziales Zentrum für Geflüchtete Engelstraße 13 54290 Trier
-        <div>
-          <Bund class="w-56" />
-        </div>
+    <div class="justify-center sm:flex">
+      <section class="mx-4">
+        <p>Psychosoziales Zentrum Trier</p>
+        <p>Dasbachstraße 21</p>
+        <p>54292 Trier</p>
       </section>
+      <section class="mx-4">
+        <p>fluechtlingsberatung@diakoniehilft.de</p>
+        <p>Tel.: 0651 9910600</p>
+        <p>Fax.: 06519916366</p>
+      </section>
+      <div>
+        <Bund class="w-56" />
+      </div>
     </div>
   </div>
 </template>

@@ -2,13 +2,23 @@
   <div>
     <Header />
     <div class="pb-8">
-      <p class="pb-8 text-center text-3xl font-bold">Kontaktformular</p>
-      <p class="mx-auto text-center sm:w-1/3">
-        Kurze Erklärung zum Kontaktformular
+      <p class="pb-8 text-center text-3xl font-bold">So erreichst du uns</p>
+      <p class="mx-auto text-center sm:w-2/3">
+        Unsere Einrichtung befindet sich auf dem Gelände der Afa Trier in Haus 1
+        (ggf. Verlinkung mit Karte). Gerne kannst du dich persönlich bei uns
+        melden und einen Termin für ein Gespräch vereinbaren. Des Weiteren
+        besteht auch die Möglichkeit der Kontaktaufnahme durch das unten
+        aufgeführte Kontaktformular. Bitte trage in das Kontaktformular deinen
+        Namen und dein Herkunftsland ein. Gib zusätzlich deine Zimmernummer,
+        Mailadresse oder Telefonnummer an, je nachdem, wie du am besten zu
+        erreichen bist.
       </p>
     </div>
     <!-- Formular -->
-    <div class="mx-auto mb-12 rounded-lg p-4 shadow-lg sm:w-1/2">
+    <div
+      class="mx-auto mb-12 rounded-lg border border-gray-300 p-4 shadow-lg sm:w-1/2"
+    >
+      <p class="pt-2 pb-4 font-bold">Kontaktformular</p>
       <section>
         <div>
           <form
@@ -22,6 +32,7 @@
               <input type="hidden" name="form-name" value="contact-form" />
               <div>
                 <input
+                  class="mb-4 rounded-sm border border-gray-300 p-1"
                   for="name"
                   type="text"
                   name="name"
@@ -30,17 +41,48 @@
                 />
               </div>
               <div>
-                <input type="email" name="email" required placeholder="Email" />
+                <input
+                  class="mb-4 rounded-sm border border-gray-300 p-1"
+                  type="email"
+                  name="email"
+                  required
+                  placeholder="Email"
+                />
+              </div>
+              <div>
+                <input
+                  class="mb-4 rounded-sm border border-gray-300 p-1"
+                  type="email"
+                  name="email"
+                  required
+                  placeholder="Zimmernummer"
+                />
+              </div>
+              <div>
+                <input
+                  class="mb-4 rounded-sm border border-gray-300 p-1"
+                  type="email"
+                  name="email"
+                  required
+                  placeholder="Telefonnummer"
+                />
               </div>
               <div>
                 <textarea
+                  class="mb-4 h-48 w-full rounded-sm border border-gray-300 p-1"
                   name="message"
                   required
                   placeholder="Message"
                 ></textarea>
               </div>
               <div>
-                <button type="submit" value="Send message">Submit</button>
+                <button
+                  class="rounded-lg bg-gray-200 px-3 py-2 hover:bg-gray-600 hover:text-white"
+                  type="submit"
+                  value="Send message"
+                >
+                  Submit
+                </button>
               </div>
             </div>
           </form>
