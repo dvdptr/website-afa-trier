@@ -1,14 +1,14 @@
 <template>
   <div id="header" class="">
     <!-- Header NavBar total -->
-    <div class="mx-auto w-4/5 pb-2 pt-2 md:w-full md:max-w-screen-xl">
+    <div class="mx-auto pb-2 pt-2">
       <nav
         id="nav"
-        class="flex w-full flex-wrap items-center justify-between py-6"
+        class="flex w-full flex-wrap content-center items-center justify-between py-6"
       >
         <!-- NavBar Logo -->
         <div>
-          <nuxt-link to="/"> <Logo class="w-48" /> </nuxt-link>
+          <nuxt-link to="/"> <Logo class="w-36" /> </nuxt-link>
         </div>
         <!-- Header Hamburger Icon -->
         <div class="block lg:hidden">
@@ -30,18 +30,18 @@
         <!-- Responsive -->
         <div
           :class="isOpen ? 'block' : 'hidden'"
-          class="w-full flex-grow text-center text-gray-800 md:text-right lg:flex lg:w-auto lg:items-center"
+          class="w-full flex-grow text-center text-gray-800 sm:text-right lg:flex lg:w-auto lg:items-center"
         >
           <div class="lg:flex-grow">
             <!-- NAV Menu Links -->
             <nuxt-link
-              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
+              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 sm:border-none sm:pb-0 lg:mt-0 lg:inline-block"
               to="/kontaktformular"
               >Kontaktformular</nuxt-link
             >
 
             <nuxt-link
-              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 md:border-none md:pb-0 lg:mt-0 lg:inline-block"
+              class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 sm:border-none sm:pb-0 lg:mt-0 lg:inline-block"
               to="/about"
               >About</nuxt-link
             >
