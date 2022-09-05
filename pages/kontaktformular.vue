@@ -18,8 +18,28 @@
         an, je nachdem, wie du am besten zu erreichen bist.
       </p>
     </div>
+    <a
+      href="https://us14.list-manage.com/survey?u=3803f914d8b01b1d685475f7e&id=f22ca4f580&attribution=false"
+      target="blank"
+      ><div
+        class="mx-auto mb-8 w-5/6 justify-around rounded-lg bg-gray-100 sm:flex"
+      >
+        <div class="py-4 sm:w-1/2">
+          <p class="pb-4 text-center">
+            Hier findest du unser Kontaktformular. Trage deine Daten ein und wir
+            nehmen schnellstmöglich Kontakt mit Dir auf. Vielen Dank!
+          </p>
+          <p
+            class="text-center text-sm font-bold text-lime-600 hover:underline"
+          >
+            Link zum Kontaktformular ▸
+          </p>
+        </div>
+      </div></a
+    >
+
     <!-- Formular -->
-    <div
+    <!-- <div
       class="mx-auto mb-12 rounded-lg border border-gray-300 p-4 shadow-lg sm:w-1/2"
     >
       <p class="pt-2 pb-4 font-bold">Kontaktformular</p>
@@ -101,7 +121,7 @@
           </form>
         </div>
       </section>
-    </div>
+    </div> -->
     <Footer />
   </div>
 </template>
