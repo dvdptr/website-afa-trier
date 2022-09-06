@@ -1,14 +1,14 @@
 <template>
   <div id="header" class="">
     <!-- Header NavBar total -->
-    <div class="mx-auto pb-2 pt-2">
+    <div class="mx-auto w-5/6 pb-2 pt-2 sm:w-full sm:max-w-screen-xl">
       <nav
         id="nav"
         class="flex w-full flex-wrap content-center items-center justify-between py-6"
       >
         <!-- NavBar Logo -->
         <div>
-          <nuxt-link to="/"> <Logo class="w-36" /> </nuxt-link>
+          <nuxt-link to="/"> <Logo class="w-32" /> </nuxt-link>
         </div>
         <!-- Header Hamburger Icon -->
         <div class="block lg:hidden">

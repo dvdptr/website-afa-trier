@@ -1,5 +1,5 @@
 <template>
-  <div class="pb-8">
+  <div class="mx-auto py-12 sm:max-w-screen-xl">
     <!-- Angebote -->
     <nuxt-link to="/angebote">
       <div
