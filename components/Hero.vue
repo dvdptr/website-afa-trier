@@ -30,9 +30,9 @@
             Kontaktformular
           </nuxt-link>
 
-          <button class="mx-2 rounded-lg border-2 border-gray-200 px-3 py-2">
+          <!-- <button class="mx-2 rounded-lg border-2 border-gray-200 px-3 py-2">
             Sprache wählen
-          </button>
+          </button> -->
         </div>
       </div>
     </div>

@@ -1,11 +1,11 @@
 <template>
   <div>
     <Header />
-    <div class="mx-auto pb-8 text-center sm:w-2/3">
+    <div class="mx-auto w-5/6 pb-8 text-center sm:w-4/6 sm:max-w-screen-xl">
       <p class="pb-8 text-center text-2xl font-bold">So erreichst du uns</p>
       <p class="pb-4">
-        Unsere Einrichtung befindet sich auf dem Gelände der Afa Trier in Haus 1
-        (ggf. Verlinkung mit Karte).
+        Unsere Einrichtung befindet sich auf dem Gelände der Afa Trier in Haus
+        1.
       </p>
       <p class="pb-4">
         Gerne kannst du dich persönlich bei uns melden und einen Termin für ein
@@ -17,26 +17,27 @@
         ein. Gib zusätzlich deine Zimmernummer, Mailadresse oder Telefonnummer
         an, je nachdem, wie du am besten zu erreichen bist.
       </p>
-    </div>
-    <a
-      href="https://us14.list-manage.com/survey?u=3803f914d8b01b1d685475f7e&id=f22ca4f580&attribution=false"
-      target="blank"
-      ><div
-        class="mx-auto mb-8 w-5/6 justify-around rounded-lg bg-gray-100 sm:flex"
+      <a
+        href="https://us14.list-manage.com/survey?u=3803f914d8b01b1d685475f7e&id=f22ca4f580&attribution=false"
+        target="blank"
+        ><div
+          class="mx-auto mb-8 justify-around rounded-lg bg-gray-100 sm:flex sm:w-4/6"
+        >
+          <div class="py-4 sm:w-1/2">
+            <p class="pb-4 text-center">
+              Hier findest du unser Kontaktformular. Trage deine Daten ein und
+              wir nehmen schnellstmöglich Kontakt mit Dir auf. <br />
+              Vielen Dank!
+            </p>
+            <p
+              class="text-center text-sm font-bold text-lime-600 hover:underline"
+            >
+              Link zum Kontaktformular ▸
+            </p>
+          </div>
+        </div></a
       >
-        <div class="py-4 sm:w-1/2">
-          <p class="pb-4 text-center">
-            Hier findest du unser Kontaktformular. Trage deine Daten ein und wir
-            nehmen schnellstmöglich Kontakt mit Dir auf. Vielen Dank!
-          </p>
-          <p
-            class="text-center text-sm font-bold text-lime-600 hover:underline"
-          >
-            Link zum Kontaktformular ▸
-          </p>
-        </div>
-      </div></a
-    >
+    </div>
 
     <!-- Formular -->
     <!-- <div

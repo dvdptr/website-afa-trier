@@ -1,9 +1,9 @@
 <template>
-  <div class="mx-auto py-12 sm:max-w-screen-xl">
+  <div class="mx-auto w-5/6 py-12 sm:max-w-screen-xl">
     <!-- Angebote -->
     <nuxt-link to="/angebote">
       <div
-        class="mx-auto mb-8 w-5/6 justify-around rounded-lg bg-gray-100 sm:flex"
+        class="mx-auto mb-8 justify-around rounded-lg bg-gray-100 px-4 sm:flex sm:w-4/6 sm:px-0"
       >
         <div class="py-4 sm:w-1/2">
           <p class="pb-2 text-xl font-bold">Angebote</p>
@@ -15,14 +15,13 @@
             Erfahre mehr ▸
           </p>
         </div>
-        <div class="my-4 w-full bg-gray-400 sm:w-1/4">image</div>
       </div>
     </nuxt-link>
 
-    <!-- Angebote -->
+    <!-- Zielgruppe -->
     <nuxt-link to="/zielgruppe">
       <div
-        class="mx-auto mb-8 w-5/6 justify-around rounded-lg bg-gray-100 sm:flex"
+        class="mx-auto mb-8 justify-around rounded-lg bg-gray-100 px-4 sm:flex sm:w-4/6 sm:px-0"
       >
         <div class="py-4 sm:w-1/2">
           <p class="pb-2 text-xl font-bold">Zielgruppe und Informationen</p>
@@ -34,13 +33,13 @@
             Erfahre mehr ▸
           </p>
         </div>
-        <div class="my-4 w-full bg-gray-400 sm:w-1/4">image</div>
       </div>
     </nuxt-link>
-    <!-- Angebote -->
+
+    <!-- Über uns -->
     <nuxt-link to="/about">
       <div
-        class="mx-auto mb-8 w-5/6 justify-around rounded-lg bg-gray-100 sm:flex"
+        class="mx-auto mb-8 justify-around rounded-lg bg-gray-100 px-4 sm:flex sm:w-4/6 sm:px-0"
       >
         <div class="py-4 sm:w-1/2">
           <p class="pb-2 text-xl font-bold">Über uns</p>
@@ -52,7 +51,6 @@
             Erfahre mehr ▸
           </p>
         </div>
-        <div class="my-4 w-full bg-gray-400 sm:w-1/4">image</div>
       </div>
     </nuxt-link>
   </div>
