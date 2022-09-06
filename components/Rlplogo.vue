@@ -1,6 +1,6 @@
 <template>
   <div>
-    <svg viewbox="0 0 310 120" xmlns="http://www.w3.org/2000/svg">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 107.206">
       <defs id="defs6065">
         <style type="text/css" id="style6063">
           .cls-2 {

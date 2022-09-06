@@ -27,11 +27,6 @@
         bundesweiten Arbeitsgemeinschaft der psychosozialen Zentren für
         Flüchtlinge und Folteropfer BAfF e. V.
       </p>
-      <p>Gefördert von:</p>
-      <div class="mx-auto flex">
-        <Bund class="w-56" />
-        <RlpLogo class="w-48 pt-4" />
-      </div>
     </div>
     <Footer />
   </div>
