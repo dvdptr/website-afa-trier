@@ -2,7 +2,7 @@
   <div>
     <div>
       <Header />
-      <div class="mx-auto w-4/6 py-8">
+      <div class="mx-auto w-5/6 py-8 sm:w-3/5">
         <h1 class="pb-8 text-2xl font-bold">Zielgruppe</h1>
         <p class="pb-4">
           Unsere Einrichtung steht offen für alle Bewohner*innen der
@@ -18,8 +18,11 @@
           du eine genaue Auflistung darüber.
         </p>
         <p class="pb-4">
-          Um persönlich mit uns in Kontakt zu treten klicke bitte hier, fülle
-          das Formular aus und wir werden uns schnellstmöglich bei dir melden.
+          Um persönlich mit uns in Kontakt zu treten klicke bitte
+          <nuxt-link to="/zielgruppe" class="text-lime-600 hover:font-bold"
+            >hier</nuxt-link
+          >, fülle das Formular aus und wir werden uns schnellstmöglich bei dir
+          melden.
         </p>
       </div>
       <Footer />

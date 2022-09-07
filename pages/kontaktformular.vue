@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <div class="mx-auto w-5/6 pb-8 text-center sm:w-4/6 sm:max-w-screen-xl">
+    <div class="mx-auto w-5/6 pb-8 text-center sm:w-3/5 sm:max-w-screen-xl">
       <p class="pb-8 text-center text-2xl font-bold">So erreichst du uns</p>
       <p class="pb-4">
         Unsere Einrichtung befindet sich auf dem Gelände der Afa Trier in Haus
@@ -20,7 +20,7 @@
           frameborder="0"
           marginheight="0"
           marginwidth="0"
-          class="mx-auto w-full sm:w-3/4"
+          class="mx-auto w-full pt-4 sm:w-3/4"
           >Wird geladen…</iframe
         >
       </div>

@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <div class="mx-auto w-4/6 py-8">
+    <div class="mx-auto w-5/6 py-8 sm:w-3/5">
       <h1 class="pb-8 text-2xl font-bold">Das sind wir</h1>
       <p class="pb-4">
         Das Psychosoziale Zentrum für Geflüchtete ist eine unabhängige
