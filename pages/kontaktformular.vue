@@ -12,31 +12,18 @@
         Gespräch vereinbaren. Des Weiteren besteht auch die Möglichkeit der
         Kontaktaufnahme durch das unten aufgeführte Kontaktformular.
       </p>
-      <p class="pb-4">
-        Bitte trage in das Kontaktformular deinen Namen und dein Herkunftsland
-        ein. Gib zusätzlich deine Zimmernummer, Mailadresse oder Telefonnummer
-        an, je nachdem, wie du am besten zu erreichen bist.
-      </p>
-      <a
-        href="https://us14.list-manage.com/survey?u=3803f914d8b01b1d685475f7e&id=f22ca4f580&attribution=false"
-        target="blank"
-        ><div
-          class="mx-auto mb-8 justify-around rounded-lg bg-gray-100 sm:flex sm:w-4/6"
+
+      <div>
+        <iframe
+          src="https://docs.google.com/forms/d/e/1FAIpQLScjxXIpxp-BVV02lKzArieDxv81y1nw3gK9zckoP-AalX-wiw/viewform?embedded=true"
+          height="947"
+          frameborder="0"
+          marginheight="0"
+          marginwidth="0"
+          class="mx-auto w-full sm:w-3/4"
+          >Wird geladen…</iframe
         >
-          <div class="py-4 sm:w-1/2">
-            <p class="pb-4 text-center">
-              Hier findest du unser Kontaktformular. Trage deine Daten ein und
-              wir nehmen schnellstmöglich Kontakt mit Dir auf. <br />
-              Vielen Dank!
-            </p>
-            <p
-              class="text-center text-sm font-bold text-lime-600 hover:underline"
-            >
-              Link zum Kontaktformular ▸
-            </p>
-          </div>
-        </div></a
-      >
+      </div>
     </div>
 
     <!-- Formular -->
