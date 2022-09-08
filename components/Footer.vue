@@ -7,15 +7,18 @@
           <p>Dasbachstraße 21</p>
           <p>54292 Trier</p>
         </section>
-        <section class="sm:mx-4">
+        <section class="pb-4 sm:mx-4">
           <p>fluechtlingsberatung@diakoniehilft.de</p>
           <p>Tel.: 0651 9910600</p>
           <p>Fax.: 06519916366</p>
         </section>
+        <section class="sm:mx-4">
+          <nuxt-link to="/impressum" class="sm:mx-auto">Impressum</nuxt-link>
+        </section>
       </div>
       <div class="text-center">
         <p>Gefördert von:</p>
-        <div class="mx-auto flex justify-center text-center">
+        <div class="mx-auto flex justify-center sm:text-center">
           <Bund class="w-56" />
           <RlpLogo class="w-48 pt-4" />
         </div>
