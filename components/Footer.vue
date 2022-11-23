@@ -16,26 +16,16 @@
           <nuxt-link to="/impressum" class="sm:mx-auto">Impressum</nuxt-link>
         </section>
       </div>
-      <div class="text-center">
-        <p>Gefördert von:</p>
-        <div class="mx-auto flex justify-center sm:text-center">
-          <Bund class="w-56" />
-          <RlpLogo class="w-48 pt-4" />
-        </div>
-      </div>
     </div>
   </div>
 </template>
 
 <script>
-import Bund from "./Bund.vue";
-import RlpLogo from "./Rlplogo.vue";
-
 export default {
   data() {
     return {};
   },
   methods: {},
-  components: { Bund, RlpLogo },
+  components: {},
 };
 </script>
