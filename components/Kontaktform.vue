@@ -88,7 +88,7 @@ export default {
       })
         // This is how we route to /thanks on successful form submission
         // More on $router.push function: https://router.vuejs.org/guide/essentials/navigation.html
-        .then(() => this.$router.push("bestaetigung"))
+        .then(() => this.$router.push("/bestaetigung"))
         .catch((error) => alert(error));
     },
   },
