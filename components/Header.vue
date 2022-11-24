@@ -8,7 +8,7 @@
       >
         <!-- NavBar Logo -->
         <div>
-          <nuxt-link to="/"> <Logo class="w-32" /> </nuxt-link>
+          <nuxt-link to="/"> <Logo class="w-56" /> </nuxt-link>
         </div>
         <!-- Header Hamburger Icon -->
         <div class="block lg:hidden">
