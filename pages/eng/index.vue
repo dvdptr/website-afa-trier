@@ -1,10 +1,9 @@
 <template>
   <div>
-    <Languages />
-    <Header />
-    <Hero />
-    <Overview />
-    <Footer />
+    <engHeader />
+    <engHero />
+    <engOverview />
+    <engFooter />
   </div>
 </template>
 

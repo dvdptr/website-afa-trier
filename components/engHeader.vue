@@ -8,7 +8,7 @@
       >
         <!-- NavBar Logo -->
         <div>
-          <nuxt-link to="/"> <Logo class="w-56" /> </nuxt-link>
+          <nuxt-link to="/eng/"> <Logo class="w-56" /> </nuxt-link>
         </div>
         <!-- Header Hamburger Icon -->
         <div class="block lg:hidden">
@@ -32,20 +32,19 @@
           :class="isOpen ? 'block' : 'hidden'"
           class="w-full flex-grow text-center text-gray-800 sm:text-right lg:flex lg:w-auto lg:items-center"
         >
-          <div class="items-center lg:flex-grow">
+          <div class="lg:flex-grow">
             <!-- NAV Menu Links -->
             <nuxt-link
               class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 sm:border-none sm:pb-0 lg:mt-0 lg:inline-block"
-              to="/kontaktformular"
-              >Kontaktformular</nuxt-link
+              to="/eng/contactform"
+              >Contactform</nuxt-link
             >
 
             <nuxt-link
               class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 sm:border-none sm:pb-0 lg:mt-0 lg:inline-block"
-              to="/about"
+              to="/eng/about"
               >About</nuxt-link
             >
-
             <nuxt-link
               class="mt-4 block border-b border-gray-300 px-2 py-2 pb-2 hover:text-gray-900 sm:border-none sm:pb-0 lg:mt-0 lg:inline-block"
               to="/"
