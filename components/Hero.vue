@@ -6,22 +6,24 @@
           Psychosoziales Zentrum für Geflüchtete. <br />Herzlich willkommen!
         </p>
         <p class="mx-auto text-center sm:w-4/6">
-          Das Psychosoziale Zentrum für Geflüchtete (PSZ) unterstützt, berät und
-          behandelt Flüchtlinge, die einen Asylantrag zum Schutz vor Bedrohung
-          und Verfolgung gestellt haben.
+          Das Psychosoziale Zentrum für Geflüchtete (PSZ) Trier unterstützt,
+          berät und behandelt Flüchtlinge, die einen Asylantrag zum Schutz vor
+          Bedrohung und Verfolgung gestellt haben.
         </p>
         <br />
         <p class="mx-auto text-center sm:w-4/6">
-          Wir vom Psychosozialen Zentrum für Geflüchtete sind ein Team vor Ort,
-          um dir deine Ankunft in Deutschland zu erleichtern. Wir wissen, dass
-          Du in deinem Heimatland und möglicherweise auch während der Flucht
-          schwere Zeiten durchlebt hast. Wir freuen uns, dass du jetzt hier
-          angekommen bist und möchten dir bei deinem Start hier in Deutschland
-          helfen. Dazu stehen wir dir zur Seite, wenn es dir nicht gut geht und
-          werden dich bei allen aufkommenden Fragen unterstützen.
+          Wir vom Psychosozialen Zentrum für Geflüchtete arbeiten als Team in
+          der Stadt Trier sowie in den Umgebenden Kommunen. Wir wissen, dass Du
+          in deinem Heimatland und möglicherweise auch während der Flucht
+          schwere Zeiten durchlebt hast und noch immer darunter leiden kannst.
+          Deswegen bieten wir eine Vielzahl an psychologischen und sozialen
+          Unterstützungsangeboten die du auf dieser Seite finden wirst.
         </p>
         <br />
-        <p class="mx-auto text-center sm:w-4/6">Wir sind für dich da!</p>
+        <p class="mx-auto text-center sm:w-4/6">
+          Wir sind für dich da und freuen uns, wenn du mit uns in Kontakt
+          trittst.
+        </p>
         <div class="mt-8 flex justify-center">
           <nuxt-link
             to="kontaktformular"

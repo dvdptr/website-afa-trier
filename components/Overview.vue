@@ -6,7 +6,7 @@
         class="mx-auto mb-8 justify-around rounded-lg bg-gray-100 px-4 sm:flex sm:w-4/6 sm:px-0"
       >
         <div class="py-4 sm:w-1/2">
-          <p class="pb-2 text-xl font-bold">Angebote</p>
+          <p class="pb-2 text-xl font-bold">Angebote in der AfA Trier</p>
           <p class="pb-4">
             Hier findest du unsere Angebote von Erstangeboten und Vorbereitungen
             bis hin zu gemeinschaftlichen Aktivitäten.
@@ -19,15 +19,15 @@
     </nuxt-link>
 
     <!-- Zielgruppe -->
-    <nuxt-link to="/zielgruppe">
+    <nuxt-link to="/angeboteKommune">
       <div
         class="mx-auto mb-8 justify-around rounded-lg bg-gray-100 px-4 sm:flex sm:w-4/6 sm:px-0"
       >
         <div class="py-4 sm:w-1/2">
-          <p class="pb-2 text-xl font-bold">Zielgruppe und Informationen</p>
+          <p class="pb-2 text-xl font-bold">Angebote in der Kommune</p>
           <p class="pb-4">
-            Erfahre mehr über unsere Zielgruppe, für wen unsere Angebote
-            geeignet sind und weiterführende Informationen.
+            Diese Angebote richten sich an alle Geflüchtete die
+            Traumatherapeutische und oder psychosoziale Hilfe brauchen.
           </p>
           <p class="text-sm font-bold text-lime-600 hover:underline">
             Erfahre mehr ▸

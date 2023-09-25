@@ -12,13 +12,14 @@
         Kommune“-Team.
       </p>
       <p class="pb-4">
-        Zu unseren Angeboten in der Afa zählen die Beratung rund um das
-        Asylverfahren, Informationen zu allen weiteren migrationsspezifischen
-        Fragen, soziale Gruppenangebote und therapeutische Hilfen. Zu unserem
-        Team gehören Mitarbeitende verschiedener Professionen um eine
+        Des Weiteren haben wir Büros in der Bahnhofstraße 30-32 in Trier sowie
+        in den Landkreisen Bitburg-Prüm, Vulkaneifel und Rhein-Hunsrück.
+      </p>
+      <p class="pb-4">
+        Zu unserem Team gehören Mitarbeitende verschiedener Professionen um eine
         entsprechende Beratung und Unterstützung zu gewährleisten. Um eine
-        bestmögliche Verständigung zu sichern wird unser Team durch eine Reihe
-        von Dolmetscher*innen unterstützt.
+        bestmögliche Verständigung zu sichern wird unser Team durch unseren
+        eigens aufgebauten Pool an Dolmetscher*innen unterstützt.
       </p>
       <p class="pb-4">
         Das Psychosoziale Zentrum für Geflüchtete ist eine Einrichtung des

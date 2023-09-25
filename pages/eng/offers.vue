@@ -3,9 +3,9 @@
     <engHeader />
     <div class="mx-auto w-5/6 py-8 sm:w-3/5">
       <section>
-        <p class="pb-8 text-xl font-bold">Offers</p>
+        <p class="pb-8 text-xl font-bold">Offers at the AfA Trier</p>
         <p class="pb-4">
-          As long as you are in AfA Trier, you can take advantage oft he
+          As long as you are in AfA Trier, you can take advantage of the
           following offers with us.
         </p>
 
@@ -33,7 +33,9 @@
           outside the asylum procedure to strengthen the physical and mental
           health of the residents. This includes group offers that range from
           sport activities to artistic creativ groups and are open to you
-          without registration.
+          without registration. <br />
+          Furthermore, if necessary, the transition to therapeutic group offers
+          and help can take place.
         </p>
         <p class="pb-4 font-bold">Therapeutic aids</p>
         <p class="pb-4">

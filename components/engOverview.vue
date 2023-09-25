@@ -6,7 +6,7 @@
         class="mx-auto mb-8 justify-around rounded-lg bg-gray-100 px-4 sm:flex sm:w-4/6 sm:px-0"
       >
         <div class="py-4 sm:w-1/2">
-          <p class="pb-2 text-xl font-bold">Offers</p>
+          <p class="pb-2 text-xl font-bold">Offers at the AfA Trier</p>
           <p class="pb-4">
             Here you will find our offers from initial offers and preparations
             to community activities.
@@ -19,12 +19,14 @@
     </nuxt-link>
 
     <!-- Zielgruppe -->
-    <nuxt-link to="/eng/targetgroup">
+    <nuxt-link to="/eng/offersCommunities">
       <div
         class="mx-auto mb-8 justify-around rounded-lg bg-gray-100 px-4 sm:flex sm:w-4/6 sm:px-0"
       >
         <div class="py-4 sm:w-1/2">
-          <p class="pb-2 text-xl font-bold">Target group and Information</p>
+          <p class="pb-2 text-xl font-bold">
+            Offers in the surrounding communities
+          </p>
           <p class="pb-4">
             Find out more about our target group, for whom our offers are
             suitable and further information.
